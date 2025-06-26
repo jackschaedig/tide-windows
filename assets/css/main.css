@@ -5064,3 +5064,32 @@ h1, h2, h3, h4 {
   color: #111111;
   font-weight: 600;
 }
+section {
+  padding: 2em 1em;
+}
+
+.posts article {
+  margin-bottom: 2em;
+}
+
+#footer {
+  padding: 2em 1em;
+}
+@media (max-width: 768px) {
+  .button.large {
+    display: block;
+    width: 90%;
+    margin: 1em auto;
+  }
+
+  .trust-badges {
+    flex-direction: column;
+    gap: 1em;
+  }
+
+  .before-after img {
+    max-width: 100%;
+  }
+}
+
+
