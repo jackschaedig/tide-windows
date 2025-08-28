@@ -5091,5 +5091,9 @@ section {
     max-width: 100%;
   }
 }
+#intro p {
+  color: #dadada; /* or try #e0e0e0 or #f2f2f2 */
+}
+
 
 
